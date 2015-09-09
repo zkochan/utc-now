@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/zkochan/utc-now/issues"
   },
-  "homepage": "https://github.com/zkochan/utc-now#readme"
+  "homepage": "https://github.com/zkochan/utc-now#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
 }
