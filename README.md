@@ -24,4 +24,4 @@ console.log(utcNow())
 
 ## License
 
-MIT © [Zoltan Kochan](https://github.com/zkochan)
+MIT © [Zoltan Kochan](https://www.kochan.io)
